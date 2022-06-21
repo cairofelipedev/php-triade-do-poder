@@ -3,10 +3,20 @@
   src: url('/assets/fonts/rosmatika/Rosmatika.ttf');
 }
 
-h1 {
+h1, p {
   font-family: rosmakita;
 }
 
 .hero {
   background-image: url("../img/Landing-page_01.gif");
+}
+
+.hero2 {
+  background-image: url("../img/Landing-page_02.gif");
+}
+
+
+form {
+  font-family: rosmakita;
+  font-weight: bold;
 }
