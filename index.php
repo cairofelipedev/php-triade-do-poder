@@ -12,8 +12,8 @@
   <meta property="og:image" content="https://gabrielapazesteta.com.br/assets/img/triade-do-poder.png" />
 
   <!-- Favicons -->
-  <link href="./assets/img/icon-semfundo.png" rel="icon">
-  <link href="./assets/img/icon-semfundo.png" rel="apple-touch-icon">
+  <link href="./assets/img/triade-do-poder.png" rel="icon">
+  <link href="./assets/img/triade-do-poder.png" rel="apple-touch-icon">
   <link href="./assets/css/style.css" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
@@ -99,7 +99,7 @@
           <div class="flex items-center text-lg mb-3">
             <input type="email" id="email" name="email" class="placeholder-mandarin bg-puff pl-4 py-2 rounded-xl focus:outline-none w-full" placeholder="Seu melhor email" required />
           </div>
-          <button type="submit" class="bg-gradient-to-r from-champ to-atomic font-medium p-2 rounded-xl mb-4 md:p-3 text-kobe uppercase w-full">QUERO ME INSCREVER AGORA</button>
+          <button type="submit" class="shadow bg-gradient-to-r from-atomic to-champ font-medium p-2 rounded-xl mb-4 md:p-3 text-kobe uppercase w-full">QUERO ME INSCREVER AGORA</button>
         </form>
       </div>
     </div>
