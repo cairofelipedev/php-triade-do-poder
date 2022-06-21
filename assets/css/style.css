@@ -1,0 +1,12 @@
+@font-face {
+  font-family: rosmakita;
+  src: url('/assets/fonts/rosmatika/Rosmatika.ttf');
+}
+
+h1 {
+  font-family: rosmakita;
+}
+
+.hero {
+  background-image: url("../img/Landing-page_01.gif");
+}
