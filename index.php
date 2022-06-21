@@ -73,8 +73,8 @@
     <div class="hero2 items-center">
       <div class="pt-16 ml-auto px-6 lg:w-4/6">
         <h1 class="text-justify md:text-4xl text-2xl font-semibold text-puff md:mr-32 pb-3">Você gostaria de aumentar o seu faturamento com estratégias simples e validadas?</h1>
-        <p class="text-white pb-3 font-semibold">No evento a Tríade do Sucesso, você vai aprender comigo, tudo que é necessário para você se tornumar uma referência no que faz e conquistar os resultados que merece.</p>
-        <p class="text-white pb-3 font-semibold">Será um evento online e gratuito no dia 04 de julho ás 21:00h, onde eu vou revelar tudo o que eu fiz para multiplicar meu faturamento em 10 vezes, melhor minha estratégia e posicionamento.</p>
+        <p class="text-white pb-3 font-semibold">No evento a Tríade do Sucesso, você vai aprender comigo, tudo que é necessário para você se tornar uma referência no que faz e conquistar os resultados que merece.</p>
+        <p class="text-white pb-3 font-semibold">Será um evento online e gratuito no dia 04 de julho ás 21:00h, onde eu vou revelar tudo o que eu fiz para multiplicar meu faturamento em 10 vezes, melhorar minha estratégia e posicionamento.</p>
         <p class="text-white pb-3 font-semibold">Eu vou entregar de graça o que normalmente profissionais da área entregam em cursos de mais de mil reais, e você não pode ficar de fora!</p>
       </div>
       <div class="container ml-auto px-6 lg:w-4/6">
