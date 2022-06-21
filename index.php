@@ -4,6 +4,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tríade do Poder</title>
+  <meta name="description" content="Você gostaria de aumentar o seu faturamento com estratégias simples e validadas?" />
+  <meta content="Tríade do Poder" name="keywords">
+  <meta property="og:title" content="Tríade do Poder" />
+  <meta property="og:url" content="https://gabrielapazesteta.com.br/" />
+  <meta property="og:image" content="https://gabrielapazesteta.com.br/assets/img/triade-do-poder.png" />
+
+  <!-- Favicons -->
+  <link href="./assets/img/icon-semfundo.png" rel="icon">
+  <link href="./assets/img/icon-semfundo.png" rel="apple-touch-icon">
   <link href="./assets/css/style.css" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
@@ -63,8 +73,8 @@
     <div class="hero2 items-center">
       <div class="pt-16 ml-auto px-6 lg:w-4/6">
         <h1 class="text-justify md:text-4xl text-2xl font-semibold text-puff md:mr-32 pb-3">Você gostaria de aumentar o seu faturamento com estratégias simples e validadas?</h1>
-        <p class="text-white pb-3 font-semibold">No evento a Triade do Sucesso, você vai aprender comigo, t udo que é necessário para você se tornumar uma referência no que faz e conquistar os resultados que merece.</p>
-        <p class="text-white pb-3 font-semibold">Será um evento online e gratuito no dia 04 de julho ás 21:00h, onde euvou revelar tudo o que eu fiz para multiplicar meu faturamento em 10 vezes, melhor minha estratégia e posicionamento.</p>
+        <p class="text-white pb-3 font-semibold">No evento a Tríade do Sucesso, você vai aprender comigo, tudo que é necessário para você se tornumar uma referência no que faz e conquistar os resultados que merece.</p>
+        <p class="text-white pb-3 font-semibold">Será um evento online e gratuito no dia 04 de julho ás 21:00h, onde eu vou revelar tudo o que eu fiz para multiplicar meu faturamento em 10 vezes, melhor minha estratégia e posicionamento.</p>
         <p class="text-white pb-3 font-semibold">Eu vou entregar de graça o que normalmente profissionais da área entregam em cursos de mais de mil reais, e você não pode ficar de fora!</p>
       </div>
       <div class="container ml-auto px-6 lg:w-4/6">

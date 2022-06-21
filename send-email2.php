@@ -38,7 +38,7 @@ $arquivo = "
 //enviar
 
 // emails para quem será enviado o formulário
-$emailenviar = "triadedopoder@cairo.dev.br";
+$emailenviar = "triadedopoder@gabrielapazesteta.com.br";
 $destino = $emailenviar;
 $assunto = "Lead do Site";
 
