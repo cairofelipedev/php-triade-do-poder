@@ -29,7 +29,7 @@
   <main>
     <div class="hero flex relative z-20 items-center overflow-hidden">
       <div class="container mx-auto px-6 flex relative">
-        <div class="sm:w-2/3 lg:w-2/5 flex flex-col relative z-20">
+        <div class="sm:w-2/3 lg:w-2/5 flex md:p-12 flex-col relative z-20">
           <!-- <h1 class="text-center text-9xl font-bold flex flex-col text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-600">
             <span class="text-5xl sm:text-6xl">
               Tríade
@@ -77,13 +77,15 @@
       </div>
     </div>
     <img src="./assets/img/Landing-page_03.gif" class="w-full" />
-    <div class="md:p-12 bg-xike">
-      <div class="flex w-full bg-gradient-to-r from-champ to-atomic rounded-xl p-8">
-        <div class="w-1/2">
-          <h1 class="text-center md:text-3xl font-semibold text-kobe">SE INSCREVA AGORA E NÃO PERCA NADA!</h1>
-          <h1 class="text-center md:text-6xl font-semibold text-kobe">SEG 04 JUL 21:00H</h1>
+    <div class="md:p-12 p-4 bg-xike">
+      <div class="md:flex w-full bg-gradient-to-r from-champ to-atomic rounded-xl md:p-20 p-4">
+        <div class="md:w-1/2">
+          <div class="md:w-3/4">
+          <h1 class="text-center md:text-3xl text-xl font-semibold text-kobe">SE INSCREVA AGORA E NÃO PERCA NADA!</h1>
+          <h1 class="text-center md:text-6xl text-2xl font-semibold text-kobe">SEG 04 JUL 21:00H</h1>
+          </div>
         </div>
-        <form class="w-1/2" action="send-email2.php" method="POST">
+        <form class="md:w-1/2" action="send-email2.php" method="POST">
           <div class="flex items-center text-lg mb-3">
             <input type="email" id="email" name="email" class="placeholder-mandarin bg-puff pl-4 py-2 rounded-xl focus:outline-none w-full" placeholder="Seu melhor email" required />
           </div>
