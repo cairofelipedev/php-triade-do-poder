@@ -50,8 +50,8 @@ $headers .= "From: Sites cairofelipedev <cairofelipedev@gmail.com>";
 
 $enviaremail = mail($destino, $assunto, $arquivo, $headers);
 if ($enviaremail) {
-  echo ("<script type= 'text/javascript'>alert('Obrigado! Em breve entramos em contato com você');</script>
-            <script>window.location = 'index.php';</script>");
+  echo ("<script type= 'text/javascript'>alert('Obrigado, seu lugar no nosso evento já está garantido. Para não perder nada entre para o nosso grupo no telegram');</script>
+            <script>window.location = 'https://t.me/+m3xAKAcCHsM3ZmUx';</script>");
 } else {
   echo ("<script type= 'text/javascript'>alert('Erro ao enviar! Tente novamente');</script>
             <script>window.location = 'index.php';</script>");
