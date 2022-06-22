@@ -38,7 +38,7 @@
 
   <main>
     <div class="hero flex relative z-20 items-center overflow-hidden">
-      <div class="container mx-auto px-6 flex relative">
+      <div class="container mx-auto flex relative">
         <div class="sm:w-2/3 lg:w-2/5 flex md:p-12 flex-col relative z-20">
           <!-- <h1 class="text-center text-9xl font-bold flex flex-col text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-600">
             <span class="text-5xl sm:text-6xl">
@@ -50,7 +50,7 @@
             Poder
           </h1> -->
           <img src="./assets/img/triade-do-poder.png" />
-          <div>
+          <div class="pl-6 pr-6">
             <form action="send-email.php" method="POST">
               <div class="flex items-center text-lg mb-3 md:mb-4">
                 <input type="text" id="name" name="name" class="placeholder-mandarin bg-puff pl-4 py-2 rounded-xl focus:outline-none w-full" placeholder="Insira seu nome" required />
@@ -70,12 +70,12 @@
         </div>
       </div>
     </div>
-    <div class="hero2 items-center">
-      <div class="pt-16 ml-auto px-6 lg:w-4/6">
-        <h1 class="text-justify md:text-4xl text-2xl font-semibold text-puff md:mr-32 pb-3">Você gostaria de aumentar o seu faturamento com estratégias simples e validadas?</h1>
-        <p class="text-white pb-3 font-semibold">No evento a Tríade do Sucesso, você vai aprender comigo, tudo que é necessário para você se tornar uma referência no que faz e conquistar os resultados que merece.</p>
-        <p class="text-white pb-3 font-semibold">Será um evento online e gratuito no dia 04 de julho ás 21:00h, onde eu vou revelar tudo o que eu fiz para multiplicar meu faturamento em 10 vezes, melhorar minha estratégia e posicionamento.</p>
-        <p class="text-white pb-3 font-semibold">Eu vou entregar de graça o que normalmente profissionais da área entregam em cursos de mais de mil reais, e você não pode ficar de fora!</p>
+    <div class="hero2 items-center md:py-20">
+      <div class="md:pt-16 pt-4 ml-auto px-6 lg:w-4/6">
+        <h1 class="text-justify md:text-4xl  font-semibold text-puff md:mr-32 pb-3">Você gostaria de aumentar o seu faturamento com estratégias simples e validadas?</h1>
+        <p class="text-white pb-3 text-xl font-semibold">No evento a Tríade do Sucesso, você vai aprender comigo, tudo que é necessário para você se tornar uma referência no que faz e conquistar os resultados que merece.</p>
+        <p class="text-white pb-3 text-xl font-semibold">Será um evento online e gratuito no dia 04 de julho ás 21:00h, onde eu vou revelar tudo o que eu fiz para multiplicar meu faturamento em 10 vezes, melhorar minha estratégia e posicionamento.</p>
+        <p class="text-white pb-3 text-xl font-semibold">Eu vou entregar de graça o que normalmente profissionais da área entregam em cursos de mais de mil reais, e você não pode ficar de fora!</p>
       </div>
       <div class="container ml-auto px-6 lg:w-4/6">
         <form class="lg:w-1/2" action="send-email2.php" method="POST">
@@ -86,7 +86,7 @@
         </form>
       </div>
     </div>
-    <img src="./assets/img/Landing-page_03.gif" class="w-full" />
+    <img src="./assets/img/fundo2.jpg" class="w-full" />
     <div class="md:p-12 p-4 bg-xike">
       <div class="md:flex w-full bg-gradient-to-r from-champ to-atomic rounded-xl md:p-20 p-4">
         <div class="md:w-1/2">

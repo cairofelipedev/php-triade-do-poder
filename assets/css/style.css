@@ -7,13 +7,20 @@ h1, p {
   font-family: rosmakita;
 }
 
-.hero {
-  background-image: url("../img/Landing-page_01.png");
+@media only screen and (min-width: 1020px) {
+  main {
+    background-image: url("../img/fundo.jpg");
+    background-size: cover;
+  }  
 }
 
-.hero2 {
-  background-image: url("../img/Landing-page_02.gif");
+@media only screen and (max-width: 1019px) {
+  main {
+    background-image: url("../img/fundo.jpg");
+    background-size: contain;
+  }  
 }
+
 
 
 form {
