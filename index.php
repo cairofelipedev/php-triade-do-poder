@@ -39,7 +39,7 @@
   <main>
     <div class="hero flex relative z-20 items-center overflow-hidden">
       <div class="container mx-auto flex relative">
-        <div class="sm:w-2/3 lg:w-2/5 flex md:p-12 flex-col relative z-20">
+        <div class="sm:w-2/3 lg:w-2/5 flex md:p-12 flex-col relative z-20 pt-4">
           <!-- <h1 class="text-center text-9xl font-bold flex flex-col text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-600">
             <span class="text-5xl sm:text-6xl">
               Tríade
@@ -50,7 +50,7 @@
             Poder
           </h1> -->
           <img src="./assets/img/triade-do-poder.png" />
-          <div class="pl-6 pr-6">
+          <div class="pl-6 pr-6 pt-4">
             <form action="send-email.php" method="POST">
               <div class="flex items-center text-lg mb-3 md:mb-4">
                 <input type="text" id="name" name="name" class="placeholder-mandarin bg-puff pl-4 py-2 rounded-xl focus:outline-none w-full" placeholder="Insira seu nome" required />
