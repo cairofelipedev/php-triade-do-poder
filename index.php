@@ -104,6 +104,9 @@
       </div>
     </div>
   </main>
+  <footer class="bg-xike p-10">
+    <p class="text-center text-white">Landing Page desenvolvida por @cairofelipedev</p>
+  </footer>
 </body>
 
 </html>
