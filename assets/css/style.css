@@ -31,6 +31,22 @@ p {
     border: 1px solid white;
     background-color: transparent;
   }
+  .btn-mvp2 {
+    position: absolute;
+    top: 2000px;
+    height: 200px;
+    color: transparent;
+    border: 1px solid white;
+    background-color: transparent;
+  }
+  .btn-mvp3 {
+    position: absolute;
+    top: 2600px;
+    height: 150px;
+    color: transparent;
+    border: 1px solid white;
+    background-color: transparent;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -42,12 +58,52 @@ p {
     border: 1px solid white;
     background-color: transparent;
   }
+  .btn-mvp2 {
+    position: absolute;
+    top: 1800px;
+    height: 450px;
+    color: transparent;
+    border: 1px solid white;
+    background-color: transparent;
+  }
+  .btn-mvp3 {
+    position: absolute;
+    top: 3100px;
+    height: 450px;
+    color: transparent;
+    border: 1px solid white;
+    background-color: transparent;
+  }
 }
 
 @media only screen and (min-width: 1100px) {
   .btn-mvp {
     position: absolute;
     top: 500px;
+    height: 450px;
+    color: transparent;
+    border: 1px solid white;
+    background-color: transparent;
+  }
+  .btn-mvp2 {
+    position: absolute;
+    top: 3500px;
+    height: 450px;
+    color: transparent;
+    border: 1px solid white;
+    background-color: transparent;
+  }
+  .btn-mvp3 {
+    position: absolute;
+    top: 3500px;
+    height: 450px;
+    color: transparent;
+    border: 1px solid white;
+    background-color: transparent;
+  }
+  .btn-mvp3 {
+    position: absolute;
+    top: 6000px;
     height: 450px;
     color: transparent;
     border: 1px solid white;

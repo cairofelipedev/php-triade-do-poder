@@ -53,6 +53,54 @@
     <div class="md:hidden block">
       <img src="./assets/img/img03-mob.jpg" />
     </div>
+    <div class="md:block hidden">
+      <img src="./assets/img/img4.jpg" />
+      <div class="flex justify-center">
+        <button type="submit" class="btn-mvp2 w-1/2">
+          <a href="https://pay.hotmart.com/A72242240H">
+            QUERO AGORA
+          </a>
+        </button>
+      </div>
+    </div>
+    <div class="md:hidden block">
+      <img src="./assets/img/img4-mob.jpg" />
+      <div class="flex justify-center">
+        <button type="submit" class="btn-mvp2 w-1/2">
+          <a href="https://pay.hotmart.com/A72242240H">
+            QUERO AGORA
+          </a>
+        </button>
+      </div>
+    </div>
+    <div class="md:block hidden">
+      <img src="./assets/img/img5.jpg" />
+      <img src="./assets/img/img6.jpg" />
+    </div>
+    <div class="md:hidden block">
+      <img src="./assets/img/img5.jpg" />
+      <img src="./assets/img/img6.jpg" />
+    </div>
+    <div class="md:block hidden">
+      <img src="./assets/img/img7.jpg" />
+      <div class="flex justify-center">
+        <button type="submit" class="btn-mvp3 w-1/2">
+          <a href="https://pay.hotmart.com/A72242240H">
+            QUERO AGORA
+          </a>
+        </button>
+      </div>
+    </div>
+    <div class="md:hidden block">
+      <img src="./assets/img/img7.jpg" />
+      <div class="flex justify-center">
+        <button type="submit" class="btn-mvp3 w-1/2">
+          <a href="https://pay.hotmart.com/A72242240H">
+            QUERO AGORA
+          </a>
+        </button>
+      </div>
+    </div>
   </main>
 </body>
 
