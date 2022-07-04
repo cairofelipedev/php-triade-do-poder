@@ -4,12 +4,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tríade do Poder</title>
-  <meta name="description" content="Você gostaria de aumentar o seu faturamento com estratégias simples e validadas?" />
-  <meta content="Tríade do Poder" name="keywords">
-  <meta property="og:title" content="Tríade do Poder" />
+  <title>MVP PARA ESTETICA</title>
+  <meta name="description" content="MVP PARA ESTETICA - Marketing Vendas e Posicionamento" />
+  <meta content="MVP PARA ESTETICA" name="keywords">
+  <meta property="og:title" content="MVP PARA ESTETICA" />
   <meta property="og:url" content="https://gabrielapazesteta.com.br/" />
-  <meta property="og:image" content="https://gabrielapazesteta.com.br/assets/img/triade-do-poder.png" />
+  <meta property="og:image" content="https://gabrielapazesteta.com.br/assets/img/img1-desk.jpg" />
 
   <!-- Favicons -->
   <link href="./assets/img/triade-do-poder.png" rel="icon">
@@ -22,23 +22,15 @@
   <main>
     <div class="md:block hidden">
       <img src="./assets/img/img1-desk.jpg" />
-      <div class="flex justify-center">
-        <button type="submit" class="btn-mvp w-1/2">
-          <a href="https://pay.hotmart.com/A72242240H">
-            QUERO AGORA
-          </a>
-        </button>
-      </div>
+      <a href="https://pay.hotmart.com/A72242240H">
+        <img src="./assets/img/botao1.jpg" />
+      </a>
     </div>
     <div class="md:hidden block">
       <img src="./assets/img/img1-mob.jpg" />
-      <div class="flex justify-center">
-        <button type="submit" class="btn-mvp w-1/2">
-          <a href="https://pay.hotmart.com/A72242240H">
-            QUERO AGORA
-          </a>
-        </button>
-      </div>
+      <a href="https://pay.hotmart.com/A72242240H">
+        <img src="./assets/img/botao1.jpg" />
+      </a>
     </div>
     <div class="md:block hidden">
       <img src="./assets/img/img2.jpg" />
@@ -55,23 +47,15 @@
     </div>
     <div class="md:block hidden">
       <img src="./assets/img/img4.jpg" />
-      <div class="flex justify-center">
-        <button type="submit" class="btn-mvp2 w-1/2">
-          <a href="https://pay.hotmart.com/A72242240H">
-            QUERO AGORA
-          </a>
-        </button>
-      </div>
+      <a href="https://pay.hotmart.com/A72242240H">
+        <img src="./assets/img/botao2.jpg" />
+      </a>
     </div>
     <div class="md:hidden block">
       <img src="./assets/img/img4-mob.jpg" />
-      <div class="flex justify-center">
-        <button type="submit" class="btn-mvp2 w-1/2">
-          <a href="https://pay.hotmart.com/A72242240H">
-            QUERO AGORA
-          </a>
-        </button>
-      </div>
+      <a href="https://pay.hotmart.com/A72242240H">
+        <img src="./assets/img/botao2.jpg" />
+      </a>
     </div>
     <div class="md:block hidden">
       <img src="./assets/img/img5.jpg" />
@@ -83,24 +67,28 @@
     </div>
     <div class="md:block hidden">
       <img src="./assets/img/img7.jpg" />
-      <div class="flex justify-center">
-        <button type="submit" class="btn-mvp3 w-1/2">
-          <a href="https://pay.hotmart.com/A72242240H">
-            QUERO AGORA
-          </a>
-        </button>
-      </div>
+      <a href="https://pay.hotmart.com/A72242240H">
+        <img src="./assets/img/botao3.jpg" />
+      </a>
     </div>
     <div class="md:hidden block">
       <img src="./assets/img/img7.jpg" />
-      <div class="flex justify-center">
-        <button type="submit" class="btn-mvp3 w-1/2">
-          <a href="https://pay.hotmart.com/A72242240H">
-            QUERO AGORA
-          </a>
-        </button>
-      </div>
+      <a href="https://pay.hotmart.com/A72242240H">
+        <img src="./assets/img/botao3.jpg" />
+      </a>
     </div>
+    <div class="md:block hidden">
+      <img src="./assets/img/img8.jpg" />
+    </div>
+    <div class="md:hidden block">
+      <img src="./assets/img/img8-mob.jpg" />
+    </div>
+    <a href="https://pay.hotmart.com/A72242240H">
+      <img src="./assets/img/img9.jpg" />
+    </a>
+    <a href="https://www.instagram.com/gabrielapazesteta/">
+      <img src="./assets/img/img10.jpg" />
+    </a>
   </main>
 </body>
 
