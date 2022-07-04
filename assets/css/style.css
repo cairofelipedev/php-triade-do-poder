@@ -3,7 +3,8 @@
   src: url('/assets/fonts/rosmatika/Rosmatika.ttf');
 }
 
-h1, p {
+h1,
+p {
   font-family: rosmakita;
 }
 
@@ -11,17 +12,35 @@ h1, p {
   main {
     background-image: url("../img/fundo.jpg");
     background-size: cover;
-  }  
+  }
 }
 
 @media only screen and (max-width: 1019px) {
   main {
     background-image: url("../img/fundo.jpg");
     background-size: contain;
-  }  
+  }
 }
 
+@media only screen and (max-width: 767) {
+  .btn-mvp {
+    position: absolute;
+    top: 200px;
+    height: 150px;
+    color: transparent;
+    background-color: transparent;
+  }
+}
 
+@media only screen and (min-width: 768px) {
+  .btn-mvp {
+    position: absolute;
+    top: 350px;
+    height: 250px;
+    color: transparent;
+    background-color: transparent;
+  }
+}
 
 form {
   font-family: rosmakita;
