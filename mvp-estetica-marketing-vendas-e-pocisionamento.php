@@ -24,7 +24,9 @@
       <img src="./assets/img/img1-desk.jpg" />
       <div class="flex justify-center">
         <button type="submit" class="btn-mvp w-1/2">
-          QUERO AGORA
+          <a href="https://pay.hotmart.com/A72242240H">
+            QUERO AGORA
+          </a>
         </button>
       </div>
     </div>
@@ -32,9 +34,24 @@
       <img src="./assets/img/img1-mob.jpg" />
       <div class="flex justify-center">
         <button type="submit" class="btn-mvp w-1/2">
-          QUERO AGORA
+          <a href="https://pay.hotmart.com/A72242240H">
+            QUERO AGORA
+          </a>
         </button>
       </div>
+    </div>
+    <div class="md:block hidden">
+      <img src="./assets/img/img2.jpg" />
+    </div>
+    <div class="md:hidden block">
+      <img src="./assets/img/img02-mob.jpg" />
+      <img src="./assets/img/img02-mbo2.jpg" />
+    </div>
+    <div class="md:block hidden">
+      <img src="./assets/img/img3.jpg" />
+    </div>
+    <div class="md:hidden block">
+      <img src="./assets/img/img03-mob.jpg" />
     </div>
   </main>
 </body>
